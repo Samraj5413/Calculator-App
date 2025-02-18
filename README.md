@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 React Calculator App
 A simple and stylish calculator app built with React.js and Tailwind CSS. 🧮✨
 
@@ -16,7 +17,9 @@ useState Hook – State management
 (Add a screenshot of your calculator UI here)
 
 📂 How to Run Locally
+
 1. Clone the repository
+   git rebase --continue
 
 git clone https://github.com/your-username/react-calculator.git
 
@@ -32,4 +35,14 @@ npm install
 
 npm run dev
 
-5. Open http://localhost:5173/ in your browser
+5. # Open http://localhost:5173/ in your browser
+
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  > > > > > > > 03ef8a4 (Initial commit)
